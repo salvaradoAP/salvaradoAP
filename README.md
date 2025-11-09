@@ -1,4 +1,4 @@
-Hi ![penguin](https://upload.wikimedia.org/wikipedia/commons/e/e0/Adelie_penguin.jpg)My name is Simón
+Hi &#128039; My name is Simón
 =============================================================================================================================
 
 Exercises and Projects in Python Development
