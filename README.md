@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Simón
+Hi ![penguin](https://upload.wikimedia.org/wikipedia/commons/e/e0/Adelie_penguin.jpg)My name is Simón
 =============================================================================================================================
 
 Exercises and Projects in Python Development
