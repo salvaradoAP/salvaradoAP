@@ -1,4 +1,4 @@
-H&#128039; Simón Alvarado Pereira
+&#128039; Simón Alvarado Pereira
 =============================================================================================================================
 
 Exercises and Projects in Python Development
