@@ -1,4 +1,4 @@
-Hi &#128039; My name is Simón
+H&#128039; Simón Alvarado Pereira
 =============================================================================================================================
 
 Exercises and Projects in Python Development
