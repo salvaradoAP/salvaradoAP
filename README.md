@@ -99,18 +99,3 @@ I'm currently focusing on strengthening my knowledge in:
 - Security troubleshooting and incident analysis
 
 ---
-
-## 🚀 Projects
-
-This portfolio will include practical projects such as:
-
-- Linux system health checks
-- Log parsing and analysis
-- Security event analysis
-- REST API integrations
-- JSON processing
-- Network troubleshooting utilities
-- Python automation scripts
-- Bash administration scripts
-- Docker labs
-- Security monitoring experiments
