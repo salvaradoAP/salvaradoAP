@@ -1,9 +1,23 @@
-&#129418; Simón Alvarado Pereira
-=============================================================================================================================
+
+<!-- Master Head Section -->
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+<!-- Profile name -->
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>  <h1 align="center" style="color: #ffffff;">
+Hi 👋, I'm Simón Alvarado</h1>
+</summary>
+</ul> 
+<!-- Profile Views Section -->
+</div>
+<a href="https://github.com/salvaradoAP"> 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</a>
 
 ## Technical Support Engineer
 
-I'm a Technical Support Engineer focused on Linux environments, security operations,
+I'm a Technical Support Engineer focused on Linux/Windows environments, security operations,
 troubleshooting, automation, and cloud technologies.
 
 This repository documents my hands-on learning and technical projects related to
@@ -11,23 +25,9 @@ Security Support Engineering. My goal is to continuously strengthen my skills by
 building practical solutions, automating repetitive tasks, analyzing system behavior,
 and troubleshooting real-world technical scenarios.
 
-Here you'll find:
-
-- 🐍 Python scripts for automation and troubleshooting
-- 🐧 Linux administration and troubleshooting exercises
-- 💻 Bash scripting and command-line automation
-- 🔐 Security and SIEM-related projects
-- 📊 Log analysis and data processing
-- 🌐 Networking and TCP/IP troubleshooting
-- 🔌 REST API and JSON integrations
-- ☁️ Cloud and monitoring projects
-- 🐳 Docker and containerization labs
-- 🛠️ Support Engineering tools and utilities
-
 ### 👨‍💻 About Me
 
 - 🌍 Based in Heredia, Costa Rica
-- 💼 Working as a Support Engineer
 - 🐧 Continuously expanding my Linux knowledge
 - 🐍 Building automation and troubleshooting tools with Python
 - 💻 Working with Bash and Linux environments
@@ -36,8 +36,9 @@ Here you'll find:
 - 📚 Interested in automation, observability, troubleshooting, and security operations
 - ✉️ Contact: [simon7198@hotmail.com](mailto:simon7198@hotmail.com)
 - ⚡ Think like there is no Box ↑→
-
 ---
+<img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
+ <br/>
 
 ## 🛠️ Skills
 
@@ -81,21 +82,8 @@ alt="Kubernetes" title="Kubernetes" width="36" height="36" />
 </p>
 
 ---
-
-## 🔬 Current Focus
-
-I'm currently focusing on strengthening my knowledge in:
-
-- Linux system administration
-- Python and Bash automation
-- Security monitoring
-- SIEM technologies
-- Log analysis
-- REST APIs
-- JSON data processing
-- TCP/IP and network troubleshooting
-- Docker and containerized environments
-- Git and version control
-- Security troubleshooting and incident analysis
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
