@@ -6,7 +6,7 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>  <h1 align="center" style="color: #ffffff;">
-Hi 👋, I'm Simón Alvarado</h1>
+Hi 👋 I'm Simón Alvarado</h1>
 </summary>
 </ul> 
 <!-- Profile Views Section -->
@@ -68,7 +68,6 @@ alt="Ubuntu" title="Ubuntu" width="36" height="36" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg"
 alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
 </a>
-
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
