@@ -69,15 +69,8 @@ alt="Ubuntu" title="Ubuntu" width="36" height="36" />
 alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
 </a>
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-alt="Docker" title="Docker" width="36" height="36" />
-</a>
 
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg"
-alt="Kubernetes" title="Kubernetes" width="36" height="36" />
-</a>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </p>
 
