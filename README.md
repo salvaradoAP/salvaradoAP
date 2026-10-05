@@ -21,13 +21,12 @@ Hi 👋 I'm Simón Alvarado</h1>
 
 ## Technical Support Engineer
 
-I'm a Technical Support Engineer focused on Linux/Windows environments, security operations,
-troubleshooting, automation, and cloud technologies.
+I'm a Technical Support Engineer focused on Linux/Windows environments,
+troubleshooting, automation, cloud technologies, and security operations.
 
-This repository documents my hands-on learning and technical projects related to
-Security Support Engineering. My goal is to continuously strengthen my skills by
-building practical solutions, automating repetitive tasks, analyzing system behavior,
-and troubleshooting real-world technical scenarios.
+This profile showcases my hands-on projects and continuous learning in
+Support Engineering, Python and Bash automation, Linux, cloud technologies,
+networking, and security.
 
 ### 👨‍💻 About Me
 
