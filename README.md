@@ -44,7 +44,7 @@ and troubleshooting real-world technical scenarios.
 <img
   alt="Coding Gif"
   src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif"
-  width="200"
+  width="190"
   align="right"
 />
 
