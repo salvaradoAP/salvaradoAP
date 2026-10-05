@@ -40,15 +40,6 @@ networking, and security.
 - ✉️ Contact: [simon7198@hotmail.com](mailto:simon7198@hotmail.com)
 - ⚡ Think like there is no Box ↑→
 ---
-<img
-  alt="Coding Gif"
-  src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif"
-  width="190"
-  align="right"
-/>
-
-<br>
-
 <h3>🛠️ Skills</h3>
 <p align="left">
 
