@@ -41,11 +41,16 @@ and troubleshooting real-world technical scenarios.
 - ✉️ Contact: [simon7198@hotmail.com](mailto:simon7198@hotmail.com)
 - ⚡ Think like there is no Box ↑→
 ---
-<img alt="Coding Gif" src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif" height="200" align="right"/>&nbsp;
- <br/>
+<img
+  alt="Coding Gif"
+  src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/gif.gif"
+  width="200"
+  align="right"
+/>
 
-## 🛠️ Skills
+<br>
 
+<h3>🛠️ Skills</h3>
 <p align="left">
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -73,11 +78,15 @@ alt="Ubuntu" title="Ubuntu" width="36" height="36" />
 alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
 </a>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+       alt="Windows" title="Windows" width="36" height="36" />
+</a>
 
 </p>
 
 ---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vedangdhuri/vedangdhuri/refs/heads/output/github-contribution-grid-snake.svg" />
